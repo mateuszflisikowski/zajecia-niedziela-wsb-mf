@@ -1,5 +1,9 @@
 @charset "UTF-8";
-
+@font-face{
+	font-family: lol;
+	src: url(../_fonts/3Dumb.ttf);
+}
+h1 {font-family:lol,sans-serif }
 html, body {
 	margin: 0px;
 	padding: 0px;
